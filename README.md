@@ -28,7 +28,7 @@ Vamos seguir essa sequência:
 ## Como o Java funciona?
 
 - Primeiro o código é escrito e salvo como .java
-- O compilador do Java que é o javac transmorma em bytecode
+- O compilador do Java que é o javac transforma em bytecode
 - A JVM (Java Virtual Machine) executa esse código.
 
 Utilizei o Chatgpt para me auxiliar no desenvolvimento desse relátório da aula de Java.
