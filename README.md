@@ -31,6 +31,13 @@ Vamos seguir essa sequência:
 - O compilador do Java que é o javac transforma em bytecode
 - A JVM (Java Virtual Machine) executa esse código.
 
+## Comparadores Lógicos
+- (==) --> igual
+- (===) --> estritamente igual
+- (=>) ou (<= -->) maior igual ou menor igual
+- (||) --> Ou
+- (&&) --> E
+
 Utilizei o Chatgpt para me auxiliar no desenvolvimento desse relátório da aula de Java.
 
 - Rodrigo Correa 2DA
