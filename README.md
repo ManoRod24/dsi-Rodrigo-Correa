@@ -37,6 +37,8 @@ Vamos seguir essa sequência:
 - (=>) ou (<= -->) maior igual ou menor igual
 - (||) --> Ou
 - (&&) --> E
+- 0 || 1 --> 1 bit
+- 8 bit --> 1 byte
 
 Utilizei o Chatgpt para me auxiliar no desenvolvimento desse relátório da aula de Java.
 
