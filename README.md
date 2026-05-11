@@ -40,6 +40,15 @@ Vamos seguir essa sequência:
 - 0 || 1 --> 1 bit
 - 8 bit --> 1 byte
 
-Utilizei o Chatgpt para me auxiliar no desenvolvimento desse relátório da aula de Java.
+## If e Else
+Essas intruções são usadas para controlar o fluxo do programa, que decide qual código é executado e qual código é ignorado.
+
+- IF == Se. 
+Precisa de uma condição que resultem em **true** ou **false**. Isso significa que as declarações trabalham com **boolean**.
+
+- Else == Senão.
+É o código que irá rodar se a condição for **false**. 
+
+- Exemplo: "Se está chovendo, leve o guarda-chuva. Senão, não pegue nada".
 
 - Rodrigo Correa 2DA
