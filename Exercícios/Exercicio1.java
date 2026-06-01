@@ -43,7 +43,7 @@ public class Exercicio1 {
 
     double imposto_renda = 0;
 
-    //Calcular imposto de renda.
+    //Calcular imposto de renda
     if (salario_bruto > 1.500){
       imposto_renda = (salario_bruto * 0.15);
     }
@@ -58,7 +58,7 @@ public class Exercicio1 {
 
     double adicional = 0;
 
-    //Calcular o adicional.
+    //Calcular o adicional
     if (idade_usuario > 40) {
       adicional = (salario_bruto * 0.02);
     }
