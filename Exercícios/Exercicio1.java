@@ -33,7 +33,7 @@ public class Exercicio1 {
 
     //Soma do salário de toda a família.
     System.out.println("Digite a renda total de sua família: ");
-    double qtdsalario_porfilho = Questoes.nextDouble();Rodri
+    double qtdsalario_porfilho = Questoes.nextDouble();
 
     double salario_familia = (qtd_filhos * qtdsalario_porfilho);
 
