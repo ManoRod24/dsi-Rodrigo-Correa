@@ -27,7 +27,7 @@ public class Exercicio1 {
     System.out.println("Digite a sua quantidade de filhos com menos de 14 anos: "); 
      int qtd_filhos = Questoes.nextInt();
 
-    //Tempo de serviço na empresa. (Anos)
+    //Tempo de serviço na empresa. (Anos).
     System.out.println("Digite o seu tempo de empresa(Anos): ");
     int tempoServico = Questoes.nextInt();
 
