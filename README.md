@@ -51,4 +51,43 @@ Precisa de uma condição que resultem em **true** ou **false**. Isso significa 
 
 - Exemplo: "Se está chovendo, leve o guarda-chuva. Senão, não pegue nada".
 
+  # Conceitos de orientação de Objetos
+
+É um paradigma de programação que organiza o código em objetos, que representam entidades do mundo real. Em java, esse é o principal modelo de desenvolvimento.
+
+## Objeto
+
+É uma **instância** de uma classe.
+**Exemplo**: Carro
+
+ - Fabricante
+ - Modelo
+ - Cor
+ - Motorização
+ - Velocidade
+
+## Métodos
+
+São as **ações** que o objeto pode realizar
+**Exemplo**:
+
+ - Filtrar Por Fabricantes
+ - Acelerar(Velocidade)
+ - Freiar(Velociade)
+
+## Herança
+
+É um mecanismo que permite que uma classe **herde atributos** e **métodos** de outra classe. Ela é usada para **reutilizar código**.
+
+**Exemplo**:
+```java
+class Animal {
+    String nome;
+
+    void comer() {
+        System.out.println(nome + " está comendo.");
+    }
+}
+```
+
 - Rodrigo Correa 2DA
